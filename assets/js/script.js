@@ -1,8 +1,6 @@
 const calculateTemp = () => {
     const numberTemp = document.getElementById('p2').value;
-    // console.log(numTemp)
     const tempSelected = document.getElementById('p3');
-    // console.log(tempSelected)
     const valueTemp = p3.options[tempSelected.selectedIndex].value;
 
     const celToFah = (cel) =>{
