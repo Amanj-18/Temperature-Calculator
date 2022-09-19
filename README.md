@@ -4,7 +4,7 @@ Description :
 This is a temperature calculator website where we can convert temperature values into celcius , kelvin and fahrenheit
 
 Website link :
-https://amanj-18.github.io/OIBSIP-Temperature-Calculator/
+https://amanj-18.github.io/Temperature-Calculator/
 
 Preview : 
 ![image](https://user-images.githubusercontent.com/89749348/188273112-9840c2ea-f911-467c-917f-fcb7ad779862.png)
